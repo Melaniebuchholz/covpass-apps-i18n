@@ -612,10 +612,6 @@ de = OK
 en = OK
 tags = common
 [[overview certificates]]
-[booster_vaccination_certificate_overview_title]
-de = Auffrischungsimpfung: Aktuell nur in Deutschland nutzbar
-en = Booster vaccination: Currently only usable in Germany
-tags = common
 [booster_vaccination_certificate_overview_message]
 de = Auffrischungsimpfungen können derzeit nur in Deutschland digital nachgewiesen und geprüft werden. Sobald sich dies ändert, werden Sie hier über den aktuellen Stand informiert.
 en = At present, booster vaccinations can only be digitally verified and checked in Germany. As soon as this changes, you will be informed here about the current status.
@@ -771,10 +767,6 @@ tags = common
 [certificates_overview_invalid_certificate_note]
 de = Zertifikat ungültig
 en = Certificate invalid
-tags = common
-[certificates_overview_booster_vaccination_certificate_note]
-de = Aktuell nur in DE nutzbar
-en = Currently only usable in DE
 tags = common
 [certificates_overview_booster_vaccination_certificate_title]
 de = Impfzertifikat
