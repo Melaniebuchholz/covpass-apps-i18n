@@ -18,15 +18,15 @@
 
 [start_onboarding_message]
     de = Weisen Sie digitale COVID-Zertifikate der EU ganz einfach mit dem Smartphone nach.
-    en = Show your EU Digital COVID Certificates from your smartphone with ease.
+    en = Easily show your EU Digital COVID Certificates from your smartphone.
 
 [start_onboarding_secure_title]
     de = Absolute Sicherheit Ihrer Daten
-    en = Absolute security for your data
+    en = Total security of your data
 
 [start_onboarding_secure_message]
     de = Ihre Daten werden nur lokal auf Ihrem Smartphone gespeichert. Sie entscheiden, wann und wem Sie Ihre Daten vorzeigen.
-    en = Your data is stored in one place: locally on your smartphone. You decide when you show your data and who you show it to.
+    en = Your data is stored in one place: locally on your smartphone. You decide when and to whom you show your data.
 
 [start_onboarding_button_title]
     de = Los geht's
@@ -50,23 +50,23 @@
 
 [vaccination_first_onboarding_page_message]
     de = Scannen Sie mit der CovPass-App das digitale COVID-Zertifikat der EU für eine Corona-Impfung oder eine Genesung von der Corona-Infektion. Halten Sie dafür die Kamera Ihres Smartphones über den QR-Code. Das digitale COVID-Zertifikat der EU wird sofort auf Ihr Smartphone übertragen.
-    en = Use the CovPass app to scan the EU Digital COVID Certificate for a Covid-19 vaccination or recovery from a Covid-19 infection. To do this, hold your smartphone’s camera above the QR code. Your EU Digital COVID Certificate will be transferred to your smartphone immediately.
-
+    en = Use the CovPass app to scan the EU Digital COVID Certificate for a Covid-19 vaccination or recovery from a Covid-19 infection. To do this, hold the camera of your smartphone over the QR code. The EU's digital COVID certificate is immediately transferred to your smartphone.
+    
 [vaccination_second_onboarding_page_title]
     de = Zweiter Schritt: Rufen Sie den QR-Code in der CovPass-App auf
     en = Step two: open the QR code in the CovPass app
 
 [vaccination_second_onboarding_page_message]
     de = Mit dem QR-Code können Sie eine Corona-Impfung oder eine Genesung von einer Corona-Infektion nachweisen. Nach dem Scannen wird der QR-Code direkt in der CovPass-App angezeigt. Bitte beachten Sie, dass eine ausreichende Wirksamkeit des Impfschutzes erst etwa 14 Tage nach der letzten Impfung eintritt. Der QR-Code für den vollständigen Impfschutz ist deshalb erst nach Ablauf der 14 Tage gültig.
-    en = Using the QR code, you can show evidence of a Covid-19 vaccination or recovery from a Covid-19 infection. The QR code is displayed directly in the CovPass app after scanning it. Please be aware that a vaccination only becomes sufficiently effective about 14 days after the final dose. For this reason, the QR code for full vaccination only becomes valid after 14 days have passed.
+    en = Using the QR code, you can show evidence of a Covid-19 vaccination or recovery from a Covid-19 infection. The QR code is displayed directly in the CovPass app after scanning it. Please note that the vaccine protection is only sufficiently effective about 14 days after the last vaccination. The QR code for complete vaccination is therefore only valid after the 14 days have passed.
 
 [vaccination_third_onboarding_page_title]
     de = Dritter Schritt: Zeigen Sie den QR-Code bei Bedarf vor
-    en = Step three: show your QR code when needed
+    en = Step three: Show your QR code if necessary
 
 [vaccination_third_onboarding_page_message]
     de = Bei Bedarf können Sie den QR-Code in der CovPass-App vorzeigen. Der QR-Code wird dann von der prüfenden Person gescannt. Halten Sie dazu ergänzend Ihr Ausweisdokument bereit. Da der QR-Code nur auf Ihrem Smartphone gespeichert ist, können Sie ihn jederzeit auch ohne Internetverbindung anzeigen lassen.
-    en = You can show your QR code from the CovPass app when you need it. The person checking the QR code will then scan it. You will also need to have an ID document at hand for this. Your QR code is stored only on your smartphone, so you can display it at any time even without an internet connection.
+    en = You can show your QR code from the CovPass app when you need it. The person checking the QR code will then scan it. Please also have your identification document ready. Since your QR code is stored only on your smartphone, so you can display it at any time even without an internet connection.
 
 [vaccination_fourth_onboarding_page_title]
     de = Datenschutz und Datensicherheit
@@ -78,19 +78,19 @@
 
 [vaccination_fourth_onboarding_page_second_list_item]
     de = Zum Schutz vor Fälschungen oder Manipulationen werden die digitalen COVID-Zertifikate der EU durch das RKI elektronisch signiert. Hierzu werden die notwendigen Daten einmalig verschlüsselt an das RKI übermittelt. Nach der Erstellung des digitalen COVID-Zertifikats werden Ihre Daten vom RKI sofort unwiderruflich gelöscht. Der QR-Code enthält in kodierter Form die auf dem digitalen COVID-Zertifikat enthaltenen Informationen und die elektronische Signatur des RKI.
-    en = To protect against forged certificates or manipulation, the digital COVID Certificates are electronically signed by the RKI. For this purpose, the necessary data is transmitted once in encrypted form to the RKI. Once the digital COVID Certificate has been created, the RKI will immediately and permanently delete the data. The QR code contains the information from the digital COVID Certificate, and the RKI’s electronic signature, in encoded form.
+    en = To protect against counterfeiting or manipulation, the EU's digital COVID Certificates are electronically signed by the RKI. For this purpose, the necessary data is encrypted once and transmitted to the RKI. Once the digital COVID Certificate has been created, the RKI will immediately and irrevocably delete the data. The QR code contains the information from the digital COVID Certificate, and the RKI’s electronic signature, in encoded form.
 
 [vaccination_fourth_onboarding_page_third_list_item]
     de = Wenn Sie den QR-Code eines digitalen COVID-Zertifikats der EU einer anderen Person zur Prüfung vorlegen, werden dem Prüfer der Name und das Geburtsdatum des Zertifikatsinhabers angezeigt. Bei der Prüfung ist gegebenenfalls ergänzend ein Ausweisdokument vorzulegen.
-    en = When you present the QR code of a certificate in the app for verification, others will be able to find out whether you have tested negative, are fully vaccinated, or have proof that you have recovered from a coronavirus infection. During verification, the official verification app will also display the name and date of birth. In the case of test certificates, the date of sampling will also be displayed.
+    en = When you present the QR code of an EU digital COVID certificate for verification, others will be able to find out whether you have tested negative, are fully vaccinated, or have proof that you have recovered from a coronavirus infection. During verification, the official verification app will also display the name and date of birth. In the case of test certificates, the date of sampling will also be displayed.
 
 [vaccination_fourth_onboarding_page_fourth_list_item]
     de = Die digitalen COVID-Zertifikate der EU werden ausschließlich auf Ihrem Smartphone gespeichert. Sie haben jederzeit die Möglichkeit, die digitalen COVID-Zertifikate der EU wieder zu entfernen.
-    en = The digital COVID Certificates are only stored on your smartphone. You have the possibility to delete the digital COVID Certificates at any time.
+    en = The digital COVID Certificates are only stored on your smartphone. You have the option of removing the EU digital COVID certificates at any time.
 
 [vaccination_fourth_onboarding_page_message]
     de = Ausführliche Hinweise zur Datenverarbeitung finden Sie in der Datenschutzerklärung:
-    en = Detailed information about this data processing is available in the privacy notice:
+    en = Detailed information on data processing is available in the privacy notice:
 
 [vaccination_fourth_onboarding_page_message_for_us_citizens_title]
     de = Nutzungsbedingungen für US-Bürgerinnen und Bürger
@@ -141,7 +141,7 @@
 
 [accessibility_update_info_announce]
     de = Die Ansicht "Neue Funktionen" wurde geöffnet
-    en = The view "New features" has been opened
+    en = The "New Features" view was opened
 
 
 [[start screen]]
@@ -159,15 +159,14 @@
 
 [accessibility_vaccination_start_screen_title]
     de = Digitale COVID-Zertifikate der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
-    en = EU Digital COVID Certificates. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
-
+    en = EU Digital COVID Certificates. Sensible health data follows. Please make sure that no other person is listening or reading.
 [vaccination_start_screen_note_title]
     de = Fügen Sie einen Nachweis hinzu
     en = Add a certificate
 
 [vaccination_start_screen_note_message]
     de = Sie haben aktuell kein digitales COVID-Zertifikat der EU gespeichert. Drücken Sie auf das Plus-Symbol, um einen digitalen Nachweis hinzuzufügen.
-    en = You do not have any EU Digital COVID Certificate saved at the moment. Tap the plus symbol to add a digital certificate.
+    en = You do not have any EU Digital COVID Certificate saved at the moment. Tap the plus icon to add a digital certificate.
 
 [accessibility_vaccination_start_screen_label_qrcode]
     de = Schwarzer QR-Code auf weißem Hintergrund
@@ -213,7 +212,7 @@
 
 [certificate_start_screen_pop_up_app_reference_text]
     de = Bestehen Sie darauf, dass Ihr Zertifikat mit der CovPassCheck-App gescannt wird. Zeigen Sie außerdem ein Ausweisdokument vor. Nur so kann die Gültigkeit Ihres Zertifikats datensicher geprüft werden.
-    en = Please insist to have your certificate scanned with the CovPassCheck app. Only by scanning your QR code and showing your proof of identity the validity of your vaccination protection can be checked reliably while protecting your data.
+    en = Please insist that your certificate be scanned with the CovPassCheck app. Only by scanning your QR code and showing your proof of identity the validity of your vaccination protection can be checked reliably while protecting your data.
 
 [certificate_popup_checkapp_link_label]
     de = Arbeiten Sie in der Gastronomie oder planen Sie eine Veranstaltung? Prüfen Sie schnell und sicher die Zertifikate Ihrer Gäste:
@@ -242,11 +241,11 @@
 
 [accessibility_scan_camera_torch_on]
     de = Taschenlampe anschalten
-    en = Switch on torch
+    en = Turn on torch
 
 [accessibility_scan_camera_torch_off]
     de = Taschenlampe ausschalten
-    en = Switch off torch
+    en = Turn off torch
 
 [accessibility_certificate_add_popup_announce]
     de = Die Ansicht "Nachweis hinzufügen" wurde geöffnet
@@ -266,11 +265,11 @@
 
 [certificate_add_popup_note_title]
     de = Kein Sperrcode auf Ihrem Smartphone vorhanden
-    en = Your phone is not protected by a code
+    en = There is no lock code on your smartphone
 
 [certificate_add_popup_note_message]
     de = Die CovPass-App speichert sensible Daten auf Ihrem Smartphone. Um die Daten vor fremdem Zugriff zu schützen, empfehlen wir Ihnen, eine Code zum Entsperren Ihres Smartphones einzurichten.
-    en = The CovPass app saves sensitive data to your smartphone. To protect your data against access by strangers, we recommend that you set up an unlock code for your smartphone.
+    en = The CovPass app saves sensitive data to your smartphone. In order to protect the data from unauthorized access, we recommend that you set up a code to unlock your smartphone.
 
 [certificate_add_popup_message]
     de = Scannen Sie den QR-Code von einem digitalen COVID-Zertifikat der EU. Der Nachweis wird direkt in die CovPass-App übertragen.
