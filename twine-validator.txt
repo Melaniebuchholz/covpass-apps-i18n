@@ -51,7 +51,7 @@
 
 [validation_second_onboarding_page_message]
     de = Als prüfende Person sehen Sie in der CovPassCheck-App nur den Gültigkeitsstatus des digitalen COVID-Zertifikats sowie den Namen und das Geburtsdatum des Zertifikatsinhabers. Gleichen Sie diese Informationen mit einem Ausweisdokument (z. B. Personalausweis, Reisepass) ab. Eine aktive Internetverbindung ist für die Prüfung nicht erforderlich.
-    en = As a checker, the CovPassCheck app only shows you if the Digital COVID Certificate is valid and the name and date of birth of the certificate holder. Check this information against an ID document (e.g. a national ID card or passport). An active internet connection is not required when checking.
+    en = As the person checking, you only see the validity status of the digital COVID certificate and the name and date of birth of the certificate holder in the CovPassCheck app. Compare this information with an identification document (e.g. identity card, passport). An active internet connection is not required for the exam.
 
 [validation_fourth_onboarding_page_title]
     de = Datenschutz und Datensicherheit
@@ -67,7 +67,7 @@
 
 [validation_fourth_onboarding_third_list_item]
     de = Die Verwendung der digitalen COVID-Zertifikate ist freiwillig. Niemand darf zur Nutzung gezwungen werden. Der Nachweis eines vollständigen Impfschutzes, eines negativen Testergebnisses oder einer durchgemachten COVID-Infektion kann auch auf andere Weise erbracht werden.
-    en = Using Digital COVID Certificates is voluntary. Nobody can be forced to use them. There are other methods for showing evidence of full vaccination, a negative test result or recovery from a Covid-19 infection.
+    en = Using Digital COVID Certificates is voluntary. Nobody can be forced to use it. Proof of complete vaccination protection, a negative test result or a previous COVID infection can also be provided in other ways.
 
 [vaccination_fourth_onboarding_page_message]
     de = Ausführliche Hinweise zur Datenverarbeitung finden Sie in der Datenschutzerklärung:
@@ -150,8 +150,8 @@
    
 [validation_start_screen_scan_message]
     de = Scannen Sie jetzt das digitale COVID-Zertifikat der EU. Sie sehen sofort, ob die geprüfte Person ein gültiges COVID-Zertifikat besitzt.
-    en = Scan the EU Digital COVID Certificate now. You see immediately if the person you are checking has a valid Covid-19 certificate.
-
+    en = Scan the EU Digital COVID Certificate now. You can see immediately whether the person checked has a valid COVID certificate.
+    
 [accessibility_scan_result_announce]
     de = Überprüfungsergebnis wird angezeigt
     en = Verification result is displayed
@@ -198,7 +198,7 @@
     
 [validation_start_screen_offline_modus_information]
     de = Zur Überprüfung eingescannter Zertifikate benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller und der momentan in Deutschland geltenden Corona-Regeln.\n\nDiese Listen aktualisieren sich täglich automatisch. Sie können hier auch jederzeit eine manuelle Aktualisierung vornehmen. 
-    en = To verify scanned certificates, the app requires up-to-date lists of trusted certificate issuers as well as the current Corona rules in Germany.\n\nThese lists are updated automatically on a daily basis. You can also manually update them here at any time. 
+    en = To verify scanned certificates, the app requires up-to-date lists of trusted certificate issuers as well as the current Corona rules in Germany.\n\nThese lists are updated automatically on a daily basis. You can also perform a manual update here at any time. 
     
 [validation_start_screen_offline_modus_button]
     de = Aktualisieren
@@ -244,11 +244,11 @@
 
 [accessibility_scan_camera_torch_on]
     de = Taschenlampe anschalten
-    en = Switch on torch
+    en = Turn on the flashlight
 
 [accessibility_scan_camera_torch_off]
     de = Taschenlampe ausschalten
-    en = Switch off torch
+    en = Turn off the flashlight
 
 [validation_check_popup_valid_vaccination_recovery_title]
     de = Zertifikat gültig*
@@ -428,7 +428,7 @@
 
 [app_information_message]
     de = Hier finden Sie alle rechtlichen Informationen und Antworten auf die häufigsten Fragen rund um die CovPassCheck-App.
-    en = Here you can find all legal information and answers to the most frequent questions asked about the CovPassCheck app.
+    en = Here you can find all legal information and answers to the most frequently asked questions about the CovPassCheck app.
 
 [app_information_title_contact]
     de = Kontakt
@@ -492,7 +492,7 @@
 
 [app_information_title_company_easy_language]
     de = Leichte Sprache
-    en = Leichte Sprache
+    en = Easy language
 
 [app_information_title_open_source]
     de = Open-Source-Lizenzen
@@ -566,7 +566,7 @@
 
 [error_scan_qrcode_cannot_be_parsed_message]
     de = Der QR-Code gehört nicht zu einem digitalen COVID-Zertifikat der EU. Sie erkennen das richtige Zertifikat in Deutschland daran, dass der Aussteller das Robert Koch-Institut ist.\n\nQR-Codes von zum Beispiel Impfbescheinigungen oder QR-Codes auf einigen Chargen-Aufklebern aus dem gelben Impfbuch können nicht hinzugefügt werden.
-    en = This QR code does not belong to an EU Digital COVID Certificate. In Germany, you can see that a certificate is correct when it has been issued by the Robert Koch Institute.\n\nYou cannot add QR codes from doctor-issued vaccination certificates or the QR codes on some batch labels in yellow vaccination booklets.
+    en = The QR code does not belong to a digital COVID certificate from the EU. You can recognize the correct certificate in Germany by the fact that the issuer is the Robert Koch Institute.\n\nYou cannot add QR codes from doctor-issued vaccination certificates or the QR codes on some batch labels in yellow vaccination booklets.
 
 [error_scan_qrcode_cannot_be_parsed_button_title]
     de = OK
